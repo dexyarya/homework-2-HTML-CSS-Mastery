@@ -12,8 +12,10 @@
     padding: 20px;
     width: auto;
     flex-wrap: wrap;
+    padding: 50px;
     justify-content: center;
-    margin-bottom: 250px;
+    margin-bottom: 100px;
+    margin-top: 100px;
 
 }
 
@@ -64,7 +66,7 @@ h2 {
 .contact {
     flex: 2;
     width: 100%;
-    margin: 40px;
+    margin: 30px;
 
 }
 
@@ -91,6 +93,7 @@ h2 {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     padding: 80px;
     border-radius: 10PX;
+
 }
 
 .fas {
@@ -122,6 +125,7 @@ h2 {
     font-size: 1.8vw;
     color: #136223;
     flex-wrap: wrap;
+    padding: 30px;
 }
 
 .experience {
